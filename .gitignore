@@ -1,0 +1,22 @@
+# macOS and editor metadata
+.DS_Store
+.vscode/
+
+# C and CMake build output
+*.o
+*.a
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Submission archives and local environments
+*.zip
+.venv/
+
+# Homework executables
+homeworks/**/hw2
+homeworks/**/hw3
+homeworks/**/hw4
+homeworks/**/hw5
+homeworks/**/hw6
