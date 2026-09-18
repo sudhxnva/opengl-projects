@@ -14,6 +14,17 @@ cmake_install.cmake
 *.zip
 .venv/
 
+# Course material intentionally outside this repository
+/project/
+/project_v2/
+/project_v3/
+/steamtrain/
+/temp/
+/week_*/
+/*.pdf
+/*.md
+/docs/superpowers/plans/
+
 # Homework executables
 homeworks/**/hw2
 homeworks/**/hw3
